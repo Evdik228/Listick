@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+  <head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>List</title>
+
+    <link rel="stylesheet" href="log.css">
+
+  </head>
+
+   <body>
+
+    <h1>DED KVADROBER</h1>
+
+    <div class="flex-container">
+
+    <div class="elem">
+      <img src="graph0.png"  height = "200"> 
+      <div class = "text">
+          DUMP 1; 
+      </div>
+    </div>
+
+    <div class = "elem"> 
+      <img src = "graph1.png" height = "200"> 
+      <div class = "text">
+          DUMP 2;  
+      </div>
+    </div>
+
+    <div class = "elem"> 
+     <img src = "graph2.png"  height = "200"> 
+      <div class = "text">
+          DUMP 3; 
+      </div>
+    </div>
+
+    </div> 
+    </body>
+
+</html>
